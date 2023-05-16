@@ -37,7 +37,7 @@ class Player {
     draw() {
         c.fillStyle = 'red'
         c.fillRect(this.position.x,
-             this.position.y, this.width, this.height)
+             this.position.y, this.width, this.height)  //added some comment in the code
         
     }
 
