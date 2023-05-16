@@ -43,7 +43,7 @@ class Player {
 
     update(){
         this.draw()
-        this.position.x += this.velocity.x 
+        this.position.x += this.velocity.x  // added some comment on the branch
         this.position.y += this.velocity.y 
 
 
