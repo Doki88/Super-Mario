@@ -51,7 +51,7 @@ class Player {
             this.velocity.y += gravity
         //else this.velocity.y = 0
     }
-}
+}             //added some comment on the branch
 
 class Platform {
     constructor({x, y, image}){
